@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishansanjuka&label=Profile%20views&color=0e75b6&style=flat" alt="nishansanjuka" /> </p>
 
-- 🌱 I’m currently learning **Information And Communication Technology Honours Degree Program (BICT).)**
+- 🌱 I’m currently learning **Information And Communication Technology Honours Degree Program (BICT).**
 
 - 💬 Ask me about **React, Python, Dart**
 

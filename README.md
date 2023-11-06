@@ -101,7 +101,7 @@ This application is a user-friendly web application built using Next.js that aim
 
 ## Other Projects 
 
-[youtube-mp3-downloader](https://github.com/nishansanjuka/YOUTUBE-CLIENT.git) A Simple Full-Stack Applcation has Abilities With Downloading mp3 files from even youtube public Playlists.
+[youtube-mp3-downloader](https://github.com/nishansanjuka/YOUTUBE-CLIENT.git) A simple Full-Stack Applcation abilities with downloading mp3 files from even youtube public playlists.
 
 - Frameworks,
     - ![NextJs](https://img.shields.io/badge/Next-js?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
@@ -111,5 +111,5 @@ This application is a user-friendly web application built using Next.js that aim
     - ytdl-core ![npm](https://img.shields.io/npm/v/ytdl-core)
 
 
-[Simple Rock Paper Scissor Game](https://github.com/nishansanjuka/rock_paper_scissor.git) Started to learn C Programming Language, So began the journey with this simple one.
+[Simple Rock Paper Scissor Game](https://github.com/nishansanjuka/rock_paper_scissor.git) Started to learn C programming language, So began the journey with this simple one.
 

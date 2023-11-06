@@ -1,21 +1,115 @@
-<h1 align="center">Hi 👋, I'm Nipuna Nishan</h1>
-<h3 align="center">Hi, I’m a full-stack developer who loves to create amazing web applications using React, Next.js, Google Cloud, and Firebase. These are my passions and I’m always learning and improving my skills in these areas. I enjoy building beautiful, fast, and scalable websites that can provide great user experiences and solve real-world problems. I’m also a programming enthusiast who likes to collect knowledge as much as I can. You can check out some of my projects and repositories on this profile, and feel free to contact me if you have any questions or feedback. I’m always open to collaboration and new opportunities. Thank you for visiting my profile and let’s make a fire! 🔥</h3>
+# Hey, I'm Nipuna Nishan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishansanjuka&label=Profile%20views&color=0e75b6&style=flat" alt="nishansanjuka" /> </p>
 
-- 🌱 I’m currently learning **Information And Communication Technology Honours Degree Program (BICT).**
+**A Full-stack developer and programming enthusiast who loves to create amazing web applications using React, Next.js, Google Cloud, and Firebase.**
 
-- 💬 Ask me about **React, Python, Dart**
 
-- 📫 How to reach me **nipunanishan47@gmail.com**
+## Something About Me
+I’m a full-stack developer who loves to create amazing web applications using React, Next.js, Google Cloud, and Firebase. These are my passions and I’m always learning and improving my skills in these areas. I enjoy building beautiful, fast, and scalable websites that can provide great user experiences and solve real-world problems. I’m also a programming enthusiast who likes to collect knowledge as much as I can. You can check out some of my projects and repositories on this profile, and feel free to contact me if you have any questions or feedback. I’m always open to collaboration and new opportunities. Thank you for visiting my profile and let’s make a fire!
 
-- ⚡ Fun fact **It's All About Money**
+# Languages In Expertise At
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Programming Languages**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=512BD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NodeJs](https://img.shields.io/badge/NodeJs-18?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933)
+![TS](https://img.shields.io/badge/typscript-node?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
+![Dart](https://img.shields.io/badge/dart-android?style=for-the-badge&logo=dart&logoColor=white&color=0175C2)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishansanjuka&show_icons=true&locale=en&layout=compact" alt="nishansanjuka" /></p>
+
+- Python
+- C#
+- JavaScript
+- NodeJs
+- TypeScript
+- Dart
+
+
+
+
+
+**Full-Stack Frameworks:** 
+
+![NextJs](https://img.shields.io/badge/Next-js?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+- Next.Js
+- Django
+
+
+**Frontend Frameworks/Languages:** 
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-css?style=for-the-badge&logo=sass&logoColor=white&color=CC6699) 
+![Tailwind](https://img.shields.io/badge/tailwindcss-157260?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/react-157260?style=for-the-badge&logo=react&logoColor=black&color=61DAFB) 
+![Anguler](https://img.shields.io/badge/angular-js?style=for-the-badge&logo=angular&logoColor=white&color=DD0031)
+
+- HTML 5
+- CSS 3 
+- SASS
+- TailwindCSS
+- Javascript
+- React
+- AngularJs
+
+**Backend:** 
+
+![NodeJs](https://img.shields.io/badge/NodeJs-18?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+- NodeJs
+- Django
+
+
+
+**Database:** 
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+- SQL
+- MongoDB
+
+
+**Cloud:** 
+
+![GCP](https://img.shields.io/badge/googlecloud-google?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
+
+- GCP
+
+**Backend As a Service (Baas):**
+
+![FiREBASE](https://img.shields.io/badge/firebase-098?style=for-the-badge&logo=firebase&logoColor=black&color=FFCA28)
+
+
+## Recent Projects
+
+[Todo App](https://github.com/nishansanjuka/todos-firebase.git)
+This application is a user-friendly web application built using Next.js that aims to streamline task management with style and simplicity. With Google Authentication powered by Firebase Auth, users can effortlessly sign in and dive into a seamless task management experience.
+
+- Frameworks,
+    - ![NextJs](https://img.shields.io/badge/Next-js?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
+    ![Tailwind](https://img.shields.io/badge/tailwindcss-157260?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
+    ![FiREBASE](https://img.shields.io/badge/firebase-098?style=for-the-badge&logo=firebase&logoColor=black&color=FFCA28)
+
+
+
+## Other Projects 
+
+[youtube-mp3-downloader](https://github.com/nishansanjuka/YOUTUBE-CLIENT.git) A Simple Full-Stack Applcation has Abilities With Downloading mp3 files from even youtube public Playlists.
+
+- Frameworks,
+    - ![NextJs](https://img.shields.io/badge/Next-js?style=for-the-badge&logo=next.js&logoColor=white&color=000000)
+    ![Tailwind](https://img.shields.io/badge/tailwindcss-157260?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4)
+
+- Dependency,
+    - ytdl-core ![npm](https://img.shields.io/npm/v/ytdl-core)
+
+
+[Simple Rock Paper Scissor Game](https://github.com/nishansanjuka/rock_paper_scissor.git) Started to learn C Programming Language, So began the journey with this simple one.
+

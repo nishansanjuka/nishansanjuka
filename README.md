@@ -86,7 +86,7 @@ I’m a full-stack developer who loves to create amazing web applications using 
 
 ![FiREBASE](https://img.shields.io/badge/firebase-098?style=for-the-badge&logo=firebase&logoColor=black&color=FFCA28)
 
--Firebase
+- Firebase
 
 ## Recent Projects
 
